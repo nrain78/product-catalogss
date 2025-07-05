@@ -12,7 +12,7 @@ app.use(express.json())
 app.use(cors({
   origin: [
     "http://localhost:5173",
-    "https://product-catalog-react-frontend.vercel.app"
+    "https://product-catalogss-frontend.vercel.app/"
   ]
 }));
 
